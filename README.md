@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kenzoACE
-- 👀 I’m interested in ... hardwear
-- 🌱 I’m currently learning ... C/C++
-- 💞️ I’m looking to collaborate on ... XNA programming Reversi
-- 📫 How to reach me ... kenzobakenekonet.shop
+- 👀 I’m interested in ... hardware
+- 🌱 I’m currently learning ... C++
+- 💞️ I’m looking to collaborate on ... XNA (now Unity) programming Reversi
+- 📫 How to reach me ... kenzobakenekonet.shop, fushigispace.com (both https)
 - 😄 Pronouns: ... Microsoft Japan
-- ⚡ Fun fact: ... I am planning to go back to CU Bouler at the moment.
+- ⚡ Fun fact: ... I am planning to go back to CU Boulder at the moment.
 
 <!---
 kenzoACE/kenzoACE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
